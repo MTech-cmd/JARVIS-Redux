@@ -1,4 +1,4 @@
-cd "/home/mtech/Bit Academy/bit-academy/challenges/01-level/Decoder-018b903a-018b903a"
+cd "/home/mtech/Bit Academy/bit-academy/c-deep-dive-/01-newbie/02-hallo-wereld"
 touch heat
 git add .
 git commit -m "heat"
