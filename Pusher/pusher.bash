@@ -1,4 +1,4 @@
-cd "/home/mtech/Bit Academy/bit-academy/javascript-beginner/05-arrays-loops/07-volgens-schema"
+cd "/home/mtech/Bit Academy/bit-academy/database-pdo/03-change-it-up/03-waarom-moeilijk-doen-als-het-ook-makkelijk-kan"
 touch heat
 git add .
 git commit -m "heat"
