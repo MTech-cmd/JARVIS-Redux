@@ -1,4 +1,4 @@
-cd "/home/mtech/Bit Academy/bit-academy/database-pdo/03-change-it-up/03-waarom-moeilijk-doen-als-het-makkelijk-kan"
+cd "/home/mtech/bit-academy/database-pdo/03-change-it-up/03-waarom-moeilijk-doen-als-het-makkelijk-kan"
 touch heat
 git add .
 git commit -m "heat"
