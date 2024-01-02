@@ -1,5 +1,5 @@
 source_dir="/home/mtech/bit-academy"
-destination_dir="/home/mtech/Projects/Bit-Academy"
+destination_dir="/home/mtech/Projects/GitSync/Bit-Academy"
 exclude_folder=".git"
 
 cd "$destination_dir";
